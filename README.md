@@ -33,9 +33,16 @@ If you have your bot ready, the application is quite easy to use. Upload the ard
 
 * Open the app, select the COM Port on which the bluetooth module is connected [If needed change the baud rate according to your configuration, if you do not know what to do then leave it as it is], press connect
 
+![alt text](http://i.imgur.com/k359mxP.png "")
+
 * A message will pop up, if it says connection successful, don't hesitate to press W/A/S/D on your keyboard or push the buttons to control it
 
+![alt text](http://i.imgur.com/8K5AUqB.png "")
+
+
 * On the second tab you will find the speed control button. Press the button to reduce or increase the speed of your bot
+
+![alt text](http://i.imgur.com/d8W7jLZ.png "")
 
 * That's it 
 
@@ -43,5 +50,7 @@ If you have your bot ready, the application is quite easy to use. Upload the ard
 * Does not work with arduino Serial Library, it works with only SoftwareSerial library
 * Pressing multiple buttons will hamper the flow of control, press one button at a time to maintain a proper control over the bot
 
+#### Here is my bot 
 
+![alt text](http://i.imgur.com/2wXLkVg.jpg "")
 
