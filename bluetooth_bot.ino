@@ -10,8 +10,8 @@ int Speed = 230;
 
 SoftwareSerial bt(10, 11);
 
-const int leftMotor[2] = {3,4};
-const int rightMotor[2] = {5, 6};
+const int leftMotor[2] = {3,5};
+const int rightMotor[2] = {6, 9};
 
 
 void setMotor(int lsp, int rsp)
