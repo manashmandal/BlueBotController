@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon">windowicon.png</file>
+        <file alias="sourceCode">bluetooth_bot.ino</file>
+    </qresource>
+</RCC>
