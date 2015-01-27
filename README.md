@@ -50,7 +50,12 @@ If you have your bot ready, the application is quite easy to use. Upload the ard
 * Does not work with arduino Serial Library, it works with only SoftwareSerial library
 * Pressing multiple buttons will hamper the flow of control, press one button at a time to maintain a proper control over the bot
 
-#### Here is my bot 
+#### A quick demo video wouldn't hurt you
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7E7vei3Ps4A/0.jpg)](http://www.youtube.com/watch?v=7E7vei3Ps4A)
+
+
+#### Close up shot of my bot
 
 ![alt text](http://i.imgur.com/2wXLkVg.jpg "")
 
