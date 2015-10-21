@@ -59,3 +59,7 @@ If you have your bot ready, the application is quite easy to use. Upload the ard
 
 ![alt text](http://i.imgur.com/2wXLkVg.jpg "")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/manashmndl/bluebotcontroller/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
