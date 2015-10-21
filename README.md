@@ -1,3 +1,5 @@
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/manashmndl/bluebotcontroller/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 # Arduino-Bluetooth Bot Controller
 
 This is a simple arduino powered bluetooth bot controller. If you have an arduino board, a bluetooth module and a robotic chassis. You can control your robot with this application in no time. Just make proper connection with motor driver, bt module, batteries and other stuff, upload the code to your arduino board. Forget everything and enjoy a remote-control car type RF control via PC without expensive joystick or gamepad. 
@@ -61,5 +63,5 @@ If you have your bot ready, the application is quite easy to use. Upload the ard
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/manashmndl/bluebotcontroller/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 
