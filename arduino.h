@@ -1,3 +1,6 @@
+// Author: Manash 
+// License: MIT
+
 #ifndef ARDUINO_H
 #define ARDUINO_H
 
